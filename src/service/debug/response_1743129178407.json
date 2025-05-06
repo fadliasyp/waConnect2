@@ -1,0 +1,28 @@
+{
+  "data": {
+    "message": [
+      {
+        "text": "Saya memahami bahwa Anda menunggu hasil sidang isbat dari pemerintah. Saat ini, informasi spesifik mengenai waktu sidang tersebut mungkin belum tersedia. Silakan tetap mengikuti perkembangan melalui sumber resmi pemerintah untuk mendapatkan informasi yang akurat. 😊",
+        "properties": {
+          "source": {
+            "id": "OpenAIModel-b1JlZ",
+            "display_name": "OpenAI",
+            "source": "gpt-4o-mini"
+          },
+          "icon": "OpenAI",
+          "allow_markdown": false,
+          "state": "complete",
+          "text_color": "",
+          "background_color": ""
+        },
+        "category": "message",
+        "id": "5bf2444d-f447-4ac9-8ab2-3be34ad69b36",
+        "flow_id": "0694164d-b46c-477c-b7c6-0b7902c7fbad",
+        "suggest_links": []
+      }
+    ],
+    "sessionId": "0694164d-b46c-477c-b7c6-0b7902c7fbad"
+  },
+  "statusCode": 200,
+  "message": "OK"
+}

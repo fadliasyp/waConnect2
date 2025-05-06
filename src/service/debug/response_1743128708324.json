@@ -1,0 +1,28 @@
+{
+  "data": {
+    "message": [
+      {
+        "text": "Maaf, tetapi saya tidak dapat memberikan prediksi tanggal berdasarkan informasi yang Anda berikan. Namun, jika Anda mencari informasi lebih lanjut tentang layanan atau kegiatan tertentu di Jawa Timur, silakan tanyakan! 😊",
+        "properties": {
+          "source": {
+            "id": "OpenAIModel-b1JlZ",
+            "display_name": "OpenAI",
+            "source": "gpt-4o-mini"
+          },
+          "icon": "OpenAI",
+          "allow_markdown": false,
+          "state": "complete",
+          "text_color": "",
+          "background_color": ""
+        },
+        "category": "message",
+        "id": "2ff4f606-ac0e-4d31-902f-040a80b4445d",
+        "flow_id": "0694164d-b46c-477c-b7c6-0b7902c7fbad",
+        "suggest_links": []
+      }
+    ],
+    "sessionId": "0694164d-b46c-477c-b7c6-0b7902c7fbad"
+  },
+  "statusCode": 200,
+  "message": "OK"
+}

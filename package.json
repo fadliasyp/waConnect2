@@ -1,0 +1,37 @@
+{
+  "name": "waconnect2",
+  "version": "1.0.0",
+  "description": "cara memakainya :\r 1. ``` npx prisma init```\r - membuat prismanya dan memunculkan .env\r 2. sesuaikan env dengan db Anda\r 3. ```npx prisma migrate dev -nama_migrate```\r - migrate schema\r 4. ```Node index.js```\r - menjalankan WhatsApp\r 5. scan QR code di terminal/ di dalam folder sessions dengan aplikasi Whatsapp Anda\r 6. Berhasil tertautkan dengan Whatsapp Anda",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "format": "prettier --write .",
+    "format:check": "prettier --check .",
+    "start": "node index.js"
+  },
+  "type": "module",
+  "author": "fadliasyp",
+  "license": "ISC",
+  "dependencies": {
+    "@prisma/client": "^6.5.0",
+    "@wppconnect-team/wppconnect": "^1.36.3",
+    "axios": "^1.8.4",
+    "body-parser": "^2.2.0",
+    "cors": "^2.8.5",
+    "dayjs": "^1.11.13",
+    "dotenv": "^16.4.7",
+    "express": "^5.1.0",
+    "ffmpeg-static": "^5.2.0",
+    "jsonwebtoken": "^9.0.2",
+    "moment-timezone": "^0.5.47",
+    "mysql2": "^3.14.0",
+    "nodemon": "^3.1.9",
+    "puppeteer": "^24.7.2",
+    "qr-image": "^3.2.0",
+    "qrcode": "^1.5.4",
+    "sharp": "^0.33.5"
+  },
+  "devDependencies": {
+    "prisma": "^6.5.0"
+  }
+}
