@@ -2,7 +2,7 @@
 // import { createWhatsAppSession, start} from './src/service/cadangan.js';
 import { createWhatsAppSession, start} from './src/service/chatbot_api.js';
 // import app from './src/service/server.js';
-const PORT = 3000;
+const PORT = 21465;
 import app from './src/app.js';
 import dotenv from 'dotenv';
 

@@ -1,2 +1,3 @@
-2025/05/06-11:53:42.269 3564 Creating DB C:\kumpulan coding fadli\KOMINFO JATIM\WaConnect2\tokens\mySession\Default\shared_proto_db\metadata since it was missing.
-2025/05/06-11:53:42.289 3564 Reusing MANIFEST C:\kumpulan coding fadli\KOMINFO JATIM\WaConnect2\tokens\mySession\Default\shared_proto_db\metadata/MANIFEST-000001
+2025/05/20-14:56:00.931 5d10 Reusing MANIFEST C:\kumpulan coding fadli\KOMINFO JATIM\WaConnect2\tokens\mySession\Default\shared_proto_db\metadata/MANIFEST-000001
+2025/05/20-14:56:00.932 5d10 Recovering log #3
+2025/05/20-14:56:00.934 5d10 Reusing old log C:\kumpulan coding fadli\KOMINFO JATIM\WaConnect2\tokens\mySession\Default\shared_proto_db\metadata/000003.log 

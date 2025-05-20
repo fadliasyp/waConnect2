@@ -52,6 +52,8 @@ maka akan menghasilkan Token
 2. titik tiga diatas > perangkat tautan > putuskan tautan
 
 
+```rm -rf tokens/mySession```
+menghapus token/merefresh token
 
 catatan :
 

@@ -108,10 +108,10 @@ router.post('/create-session', async (req, res) => {
     }
 
      // Pastikan user dari token benar-benar ada di DB
-     const user = await prisma.user.findUnique({ where: { id: userId } });
-     if (!user) {
-       return res.status(401).json({ error: 'User dari token tidak ditemukan di database' });
-     }
+      const user = await prisma.user.findUnique({ where: { id: userId } });
+      if (!user) {
+        return res.status(401).json({ error: 'User dari token tidak ditemukan di database' });
+      }
 
     await prisma.session.create({
       data: {
@@ -332,6 +332,9 @@ router.get('/contacts/', async (req, res) => {
     });
   }
 });
+
+
+
 
 
 export default router;
